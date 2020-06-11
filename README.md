@@ -1,15 +1,15 @@
 # Battery Alarm
 
->Alert user when the battery get fully charged by playing a warning tone!
+>Alert user when the battery gets fully charged by playing a warning tone!
 
 ---
 
 ### Table of Contents
 
--[Description](#description)
--[How To Use](#how-to-use)
--[License](#license)
--[Author Info](#author-info)
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [License](#license)
+- [Author Info](#author-info)
 
 ---
 
@@ -60,4 +60,4 @@ Sahil Yadav <69sahilbabu@gmail.com>
 - Twitter - [sahilbabu69](https://twitter.com/sahilbabu69)
 - GitHub - [sahilbabu69](https://github.com/sahilbabu69)
 
-Back To The Top](#battery-alarm)
+[Back To The Top](#battery-alarm)
