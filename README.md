@@ -55,9 +55,8 @@ Licensed under the [MIT License](LICENSE).
 
 ## Author Info
 
-Sahil Yadav <69sahilbabu@gmail.com>
+Sahil Yadav <sahily1511@gmail.com>
 
-- Twitter - [sahilbabu69](https://twitter.com/sahilbabu69)
-- GitHub - [sahilbabu69](https://github.com/sahilbabu69)
+- GitHub - [sahilbabu69](https://github.com/sahily1511)
 
 [Back To The Top](#battery-alarm)
